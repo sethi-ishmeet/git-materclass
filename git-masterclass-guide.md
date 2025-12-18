@@ -1,4 +1,4 @@
-# Masterclass - Git for Beginners
+# Masterclass - Git for Beginners - part 1
 
 ## A Comprehensive Guide to Version Control
 
