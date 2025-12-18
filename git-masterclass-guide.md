@@ -611,7 +611,7 @@ git checkout branch-name
 git checkout main
 ```
 
-⚠️ **Before switching branches:**
+**Before switching branches:**
 
 - Commit your changes, or
 - Stash your changes (covered later)
