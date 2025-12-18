@@ -624,7 +624,7 @@ Otherwise, you'll get an error or lose your work.
 
 ```bash
 # Create and switch to a new branch
-git checkout -b feature/add-footer
+git checkout -b feature/add-footer-to-website
 
 # Make changes to files
 
