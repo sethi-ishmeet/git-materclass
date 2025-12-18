@@ -577,6 +577,10 @@ git branch -a
 git branch feature-name
 ```
 
+```bash
+git branch bug-name
+```
+
 This creates the branch but doesn't switch to it.
 
 **Create and switch to a new branch:**
